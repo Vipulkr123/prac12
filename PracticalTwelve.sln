@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticalTwelve", "PracticalTwelve\PracticalTwelve.csproj", "{83032C77-F73D-4D77-ACC4-B6E91C8A0EFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83032C77-F73D-4D77-ACC4-B6E91C8A0EFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83032C77-F73D-4D77-ACC4-B6E91C8A0EFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83032C77-F73D-4D77-ACC4-B6E91C8A0EFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83032C77-F73D-4D77-ACC4-B6E91C8A0EFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2E8067D-0BBE-4A45-B0B3-B1733E62C48A}
+	EndGlobalSection
+EndGlobal
